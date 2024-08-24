@@ -1,2 +1,2 @@
-print("rise and shine")
-print("let's get this sstarted")
+print("rise and shine!!")
+print("let's get this started")
